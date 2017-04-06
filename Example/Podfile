@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SKFSegmentBar_Example' do
+  pod 'SKFSegmentBar', :path => '../'
+
+  target 'SKFSegmentBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
