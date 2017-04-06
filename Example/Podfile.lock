@@ -1,0 +1,16 @@
+PODS:
+  - SKFSegmentBar (0.1.0)
+
+DEPENDENCIES:
+  - SKFSegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  SKFSegmentBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SKFSegmentBar: 6979a0a74aab7ea7dbe031e94f7a759a07a4d206
+
+PODFILE CHECKSUM: 1c4b0358fe0470f43896eeb78b048b70cad3e381
+
+COCOAPODS: 1.2.0
